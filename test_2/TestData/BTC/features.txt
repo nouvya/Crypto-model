@@ -1,0 +1,17 @@
+month_day
+daymonth_obv_ma
+atr_14
+obv_ma_6
+obv
+month_last2h
+last2h_ratio_dayofweek
+volatility_ratio_12
+volatility_ratio_24
+volume_first_hour_ratio_24h
+volume_last2h_ratio_24h
+realized_price_approx
+ret24_volratio
+volatility_24
+dayofmonth
+macd_signal
+vol_12_24_product
